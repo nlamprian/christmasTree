@@ -1,0 +1,31 @@
+#########################################
+# Syntax Coloring Map For christmasTree #
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)                  #
+#########################################
+
+christmasTree	KEYWORD1
+
+#########################################
+# Methods and Functions (KEYWORD2)      #
+#########################################
+
+begin	KEYWORD2
+setBrightness	KEYWORD2
+setOrnaments	KEYWORD2
+refresh	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)                #
+#######################################
+
+SNOW_BACK	LITERAL1
+TREE	LITERAL1
+GIFT	LITERAL1
+CHILD	LITERAL1
+HOUSE	LITERAL1
+SPACE_INVADER	LITERAL1
+RANDOM	LITERAL1
+SNOW_FRONT	LITERAL1
