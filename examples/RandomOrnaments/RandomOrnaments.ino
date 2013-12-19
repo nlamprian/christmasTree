@@ -38,14 +38,14 @@ void setup()
 
 void loop()
 {
-    if ( (unsigned long) (millis() - time_ref) > period )
+    if ( (unsigned long) (millis() - time_ref) > PERIOD )
     {
         // Picks an ornament at random.
         // It's a bit esoteric, but basically setting a bit in a byte enables a specific ornament
         uint8_t new_ornament = 0x02 << ( rand() % 6 );
 
         ornament.setOrnaments(SNOW_BACK + new_ornament);  // Sets the new ornament
-        timeout = millis();
+        time_ref = millis();
     }
     
     // Refreshes the drawing on the matrix.
