@@ -3,13 +3,13 @@ christmasTree
 
 This is a library for creating interactive ornaments for the christmas tree that are based on Arduino and the NeoMatrix modules from Adafruit.
 
-![tree](http://i859.photobucket.com/albums/ab154/lampnick67/a5b723ce-8f7a-47ff-815c-b58340f14032_zps6f6e0fd6.png?t=1387458279)
+![tree](https://raw.githubusercontent.com/wiki/nlamprian/christmasTree/assets/tree.png)
 
 
 <br>
 The library provides a set of ornaments with the additional option of droping snow.
 
-![ornaments](http://i859.photobucket.com/albums/ab154/lampnick67/ornaments_zps38f3c417.png)
+![ornaments](https://raw.githubusercontent.com/wiki/nlamprian/christmasTree/assets/ornaments.png)
 
 Interface
 ---------

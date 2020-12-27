@@ -1,6 +1,6 @@
 /**
  * Name: christmasTree
- * Author: Nick Lamprianidis (paign10.ln@gmail.com)
+ * Author: Nick Lamprianidis <nlamprian@gmail.com>
  * Version: 1.0
  * Description: A library with some ornaments for decorating a christmas tree
                 The library is based on the NeoMatrix modules
